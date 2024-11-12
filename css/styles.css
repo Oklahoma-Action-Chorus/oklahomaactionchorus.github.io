@@ -670,6 +670,11 @@ progress {
   border-radius: 50%;
 }
 
+.img-news {
+  height: auto;
+  max-width: 25%;
+}
+
 .figure {
   display: inline-block;
 }
